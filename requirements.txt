@@ -1,0 +1,6 @@
+dataclasses==0.6
+future==0.18.2
+numpy==1.19.4
+opencv-python==4.4.0.46
+torch==1.7.0
+typing-extensions==3.7.4.3
