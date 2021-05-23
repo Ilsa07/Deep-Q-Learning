@@ -1,4 +1,4 @@
-# Deep-Q-Learning
+# Deep Q Learning in Random Environment
 The following project is an implementation of a **Deep Q Learning** algorithm, which was developped as an assignment at Imperial College London. The environment in the random_environment.py file was provided to us by the college. The following algorithm solves a random generated maze by training for 10 minutes and then doing a test run.
 
 
