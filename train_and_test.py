@@ -14,19 +14,19 @@ if __name__ == "__main__":
 
     # Create a random seed, which will define the environment
     #random_seed = int(time.time())
-    # Easy
-    #random_seed = 1606179163 # DONE (no buff add), DONE (buff add)
+    # Easy Seed
+    #random_seed = 1606179163
 
-    # Medium
-    #random_seed = 1 # DONE (no buff add), DONE
-    #random_seed = 2 # Failed (no buff add), DONE
-    #random_seed = 3 # Failed (no buff add), DONE
-    #random_seed = 4 # Failed (no budd add), DONE
-    #random_seed = 5 # Done (no buff add), DONE
+    # Medium Seeds
+    #random_seed = 1 
+    #random_seed = 2 
+    #random_seed = 3 
+    #random_seed = 4 
+    #random_seed = 5 
 
-    # Hard
-    #random_seed = 1606257281 # Failed (no buff add), Failed but not bad
-    random_seed = 215 # Failed (no buff add), done but not enough steps
+    # Hard Seed
+    #random_seed = 1606257281 
+    random_seed = 215 
 
     np.random.seed(random_seed)
 
