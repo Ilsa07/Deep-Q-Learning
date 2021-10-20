@@ -22,3 +22,6 @@ Evaluation episodes test if the agent can reach the goal with the current greedy
    pip3 install -r requirements.txt
    ```
 3. Run the algorithm with the train_and_test.py function
+   ```
+   python3 train_and_test.py
+   ```
